@@ -10,5 +10,3 @@ Hi there :neckbeard: My name's Mahesh Yet Zio, you can call me just Yet Zio, zio
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yet-Zio&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yet-Zio&theme=merko&layout=compact&hide=html)
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/yetzio)
