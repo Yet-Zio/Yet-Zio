@@ -13,7 +13,7 @@ Hi there :neckbeard: My name's Mahesh Yet Zio, you can call me just Yet Zio, zio
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?plastic&logo=java&logoColor=fc0f1b)
 ![php](https://img.shields.io/badge/php-%23777BB4.svg?plastic&logo=php&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?plastic&logo=kotlin&logoColor=3c2d80&color=ed7642)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?plastic&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?plastic&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?plastic&logo=markdown&logoColor=white&color=151224)
 
 - **Databases**
