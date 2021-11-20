@@ -1,6 +1,6 @@
 Hi there :neckbeard: My name's Mahesh Yet Zio, you can call me just Yet Zio, zio or yeti, whatever you want.
 
-## Im a 18 yr old C++ developer working on Qt projects and other interesting stuff
+## Im an 18 yr old C++ developer working on Qt projects and other interesting stuff
   Although I used to work with Python, Java and PHP before. Im currently focused on cpp.
   You can find my old archived projects from this account namely an old text editor which
   am rebuilding from scratch on Qt.
