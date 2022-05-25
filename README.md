@@ -1,4 +1,4 @@
-Hi there :neckbeard: My name's Mahesh Yet Zio, you can call me just Yet Zio, zio or yeti, whatever you want.
+Hi there :neckbeard: My name's Mahesh P S. I often go by the name Yet Zio, you can call me just zio or yeti, whatever you want.
 
 ## Working on Qt Projects and other interesting stuff.
 
