@@ -8,7 +8,6 @@ Hi there :neckbeard: My name's Mahesh P S. I often go by the name Yet Zio, you c
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?plastic&logo=c%2B%2B&logoColor=white&color=e33285)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=3169ad&color=04346e&labelColor=b5b028)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?plastic&logo=java&logoColor=fc0f1b)
-![php](https://img.shields.io/badge/php-%23777BB4.svg?plastic&logo=php&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?plastic&logo=kotlin&logoColor=3c2d80&color=ed7642)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?plastic&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?plastic&logo=markdown&logoColor=white&color=151224)
