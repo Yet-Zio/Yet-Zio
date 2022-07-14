@@ -1,6 +1,6 @@
 Hi there :neckbeard: My name's Mahesh P S. I often go by the name Yet Zio, you can call me just zio or yeti, whatever you want.
 
-## Working on Qt Projects and other interesting stuff.
+![snakegraph](https://github.com/Yet-Zio/Yet-Zio/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 **Languages**
 
@@ -28,7 +28,7 @@ Hi there :neckbeard: My name's Mahesh P S. I often go by the name Yet Zio, you c
 
 **IDE and Editors**
 
-![CLion](https://img.shields.io/badge/CLion-000000?plastic&logo=clion&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-FFFFFF?plastic&logo=clion&logoColor=black)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?plastic&logo=android-studio&logoColor=white)
 ![PHPStorm](https://img.shields.io/badge/phpStorm-143?plastic&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?plastic&logo=visual%20studio&logoColor=white)
