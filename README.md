@@ -88,8 +88,10 @@ Hi there :neckbeard: My name's Mahesh P S. I often go by the name Yet Zio, you c
       <img align="center" src="https://img.shields.io/github/followers/Yet-Zio?label=Follow&style=social)](https://github.com/Yet-Zio">
       <br>
       <br>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yet-Zio&show_icons=true&theme=merko" alt="Yet's Statistics." />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yet-Zio&theme=merko&layout=compact&hide=html" alt="Zio's Statistics." />
+      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yet-Zio&&show_icons=true&theme=merko" alt="Yet's Statistics." />
+      <br>
+      <br>
+      <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Yet-Zio&theme=merko&layout=compact&hide=html" alt="Zio's Statistics." />
     </a>
   </p>
 </details>
@@ -118,4 +120,4 @@ Hi there :neckbeard: My name's Mahesh P S. I often go by the name Yet Zio, you c
 
 **GITHUB TROPHIES**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yet-Zio&theme=juicyfresh&column=3&margin-w=15&margin-h=15&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Yet-Zio&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
