@@ -105,12 +105,6 @@ Hi there :neckbeard: My name's Mahesh P S. I often go by the name Yet Zio, you c
 </details>
 <br>
 
-**Discord**
-
-<p align="center">
-    <a href="https://discord.com/users/566294402050555934"><img src="https://discord.c99.nl/widget/theme-3/566294402050555934.png"></a>
-</p>
-
 **ALSO FIND ME ON**
 
 <a href="https://www.youtube.com/channel/UC-wVUMjBRJ3jPnbrZ-7F97A"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
