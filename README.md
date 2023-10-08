@@ -26,9 +26,9 @@ Hi there :neckbeard: My name's Mahesh P S. I often go by the name Yet Zio, you c
 
 **IDE and Editors**
 
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?plastic&logo=visual%20studio%20code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?plastic&logo=intellijidea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?plastic&logo=android-studio&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?plastic&logo=visual%20studio&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?plastic&logo=eclipse&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?plastic&logo=notepad%2B%2B&logoColor=black)
 ![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&plastic&logo=vim&logoColor=white)
