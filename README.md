@@ -6,10 +6,12 @@ Hi there :neckbeard: My name's Mahesh P S. I often go by the name Yet Zio, you c
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?plastic&logo=c&logoColor=white&color=333333)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?plastic&logo=c%2B%2B&logoColor=white&color=e33285)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?plastic&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?plastic&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=3169ad&color=04346e&labelColor=b5b028)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?plastic&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?plastic&logo=kotlin&logoColor=3c2d80&color=ed7642)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?plastic&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?plastic&logo=markdown&logoColor=white&color=151224)
 
 - **Databases**
@@ -20,6 +22,7 @@ Hi there :neckbeard: My name's Mahesh P S. I often go by the name Yet Zio, you c
 
 **Frameworks**
 
+![React](https://img.shields.io/badge/React-20232A?plastic&logo=react&logoColor=61DAFB)
 ![Django](https://img.shields.io/badge/Django-092E20?plastic&logo=django&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?plastic&logo=qt&logoColor=white)
 
