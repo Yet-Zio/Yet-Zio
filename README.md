@@ -1,5 +1,7 @@
 Hi there :neckbeard: My name's Mahesh P S. I often go by the name Yet Zio, you can call me just zio or yeti, whatever you want.
 
+![snakegraph](https://github.com/Yet-Zio/Yet-Zio/blob/output/github-contribution-grid-snake-dark.svg)
+
 **Languages**
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?plastic&logo=c&logoColor=white&color=333333)
