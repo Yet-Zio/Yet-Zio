@@ -39,7 +39,6 @@ Hi there :neckbeard: My name's Mahesh P S. I often go by the name Yet Zio, you c
 **Frameworks**
 
 ![React](https://img.shields.io/badge/React-20232A?plastic&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?plastic&logo=django&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?plastic&logo=qt&logoColor=white)
 
 
