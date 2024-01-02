@@ -32,6 +32,7 @@ Hi there :neckbeard: My name's Mahesh P S. I often go by the name Yet Zio, you c
 
 - **Databases**
 
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?plastic&logo=mysql&logoColor=white)
   ![SQLite](https://img.shields.io/badge/SQLite-07405E?plastic&logo=sqlite&logoColor=white)
 
