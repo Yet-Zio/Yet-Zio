@@ -40,6 +40,7 @@ Hi there :neckbeard: My name's Mahesh P S. I often go by the name Yet Zio, you c
 **Frameworks**
 
 ![React](https://img.shields.io/badge/React-20232A?plastic&logo=react&logoColor=61DAFB)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?plastic&logo=express&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?plastic&logo=bootstrap&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?plastic&logo=qt&logoColor=white)
 
