@@ -28,6 +28,7 @@ Hi there :neckbeard: My name's Mahesh P S. I often go by the name Yet Zio, you c
 ![Python](https://img.shields.io/badge/Python-3670A0?plastic&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?plastic&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?plastic&logo=kotlin&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?plastic&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?plastic&logo=markdown&logoColor=white&color=151224)
 
 - **Databases**
