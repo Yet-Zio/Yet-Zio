@@ -25,9 +25,9 @@ Hi there :neckbeard: My name's Mahesh P S. I often go by the name Yet Zio, you c
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?plastic&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?plastic&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=3169ad&color=04346e&labelColor=b5b028)
+![Python](https://img.shields.io/badge/Python-3670A0?plastic&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?plastic&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?plastic&logo=kotlin&logoColor=3c2d80&color=ed7642)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?plastic&logo=kotlin&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?plastic&logo=markdown&logoColor=white&color=151224)
 
 - **Databases**
@@ -37,11 +37,14 @@ Hi there :neckbeard: My name's Mahesh P S. I often go by the name Yet Zio, you c
   ![SQLite](https://img.shields.io/badge/SQLite-07405E?plastic&logo=sqlite&logoColor=white)
 
 
-**Frameworks**
+**Frameworks and Libraries**
 
 ![React](https://img.shields.io/badge/React-20232A?plastic&logo=react&logoColor=61DAFB)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?plastic&logo=express&logoColor=%2361DAFB)
+![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?plastic&logo=ant-design&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?plastic&logo=bootstrap&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?plastic&logo=JSON%20web%20tokens)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?plastic&logo=react-router&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?plastic&logo=qt&logoColor=white)
 
 
@@ -80,6 +83,7 @@ Hi there :neckbeard: My name's Mahesh P S. I often go by the name Yet Zio, you c
 
 ![CMake](https://img.shields.io/badge/CMake-064F8C?plastic&logo=cmake&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?plastic&logo=git&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?plastic&logo=npm&logoColor=white)
 ![vcpkg](https://img.shields.io/badge/vcpkg-o.svg?logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+CjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHdpZHRoPSIxN3B4IiBoZWlnaHQ9IjE3cHgiIHZpZXdCb3g9IjAgMCAxNyAxNyIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMTcgMTciIHhtbDpzcGFjZT0icHJlc2VydmUiPiAgPGltYWdlIGlkPSJpbWFnZTAiIHdpZHRoPSIxNyIgaGVpZ2h0PSIxNyIgeD0iMCIgeT0iMCIKICAgIGhyZWY9ImRhdGE6aW1hZ2UvcG5nO2Jhc2U2NCxpVkJPUncwS0dnb0FBQUFOU1VoRVVnQUFBQkVBQUFBUkNBTUFBQUFNczdmSUFBQUFCR2RCVFVFQUFMR1BDL3hoQlFBQUFDQmpTRkpOCkFBQjZKZ0FBZ0lRQUFQb0FBQUNBNkFBQWRUQUFBT3BnQUFBNm1BQUFGM0NjdWxFOEFBQUNhbEJNVkVVQUFBRC95REg3dXkvNHdUZjkKeXpyOHRDYi9yeGY2eFRqN3lUcjhyUi83eHpuN3FSNzV3emo2eGpuOHRTajhveGY4d2pQOHFCdjdzQ1R4dFRiOHJCNzhyaUQxcUNUNwpzaVg4cWgzOHhqajhwaHIzc3l2NnhqajV4RGo3cVIvOHJCLzl5anI4c3lUOHlqbjd1aTMvdnl6OHZDNzZ2akg2d1RYNXhEajV4RGo1CnhEajV4VGo2eFRqNnhqbjd0Q2o2dHl2NnV5LzV4RGo1eFRqNnhqai9weGI3cmlMNnNDWDV4VGo4eWpuOHB4ejdxaC81eFRqN3lEbjgKb2hiN3BCbjdxeUQ2cnlUNnRDajZ1Q3o2dXpENXhEajZ4VGo4bmhQN29SYjhwaHY4cGh2N294ajhxUno3dVN6N3V5LzZ2akw1d2pYNQp4RGo2eFRqNnh6bjl0eWo5dWl2OG5SSDdweHo3cXgvN294bjhveGY5d2pMN3d6WDZ4VGo3eGpuOHlEajdzeWY2c3lmNnN5ZjdzaWI3CnJpSDZzaWI3cUIzOHB4cjdzU1Q2c0NYNnJ5UDZ1Uzc3clNIN3JTSDdxeUQ2dlRINnN5ajdzU1g4cWg3N3FSNzdweHo4cFJyNndEUDYKdmpINnVpNzd1Q3Y4eERYNnhqajd4amo4eHpmOHBocjdwUnI3cEJuOHBCajhueFQ3d2pUOHZ6SDd4em42eFRqNXhEajV4RGo2d2piNgp2ekw3dkMvOHJCLzdwUm43cGhyOHB4djdveGo3b0JYNnhUajV4RGo1dmpMNnVpNzZ0aXI2c1NYN3JTTDdwUnI4eVRuNXhUajdxaC84CnFCeit5enI2eFRqNnNDVDdyU0gvcHhqNnhqbjV4VGo1eERqNnVpNzZ0aXI3c3liL3JocjZ4VGo1eFRqNXd6ZjZ3RFA3dkREOHVpejUKdnpQNXdqYjV4RGo2dENuNnVDMzZ2REQ1d0RUNXd6ZjZyaVA2c2liNnRpcjZ1aTc1dmpMN3B4ejdwaHo3cXlENnJ5VDZzaWY3ckNINwpxeUg2dGl2N3FCMzdwQm43cUI3NXZ6VDZ1eS82dHl2NXdUWDV2REg2dENqLy8vLzZkVnBBQUFBQXIzUlNUbE1BQUFBQUFBQUFBQUFBCkFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUMwNm00dnY0MTRjaU5Ldnkvc2d3QVZiaG93Tks2TFVHSHNueDRkam0KK3ZwbWVPM0N1N28wSkZTYXorZUxEUU1EcTd6aDRCOENFeVlnQlVTc29EZWs4Y1lPTU43VDdvNkw3OWZqTlEzRjg2azlxclpOQmlBVApBaC9nNXNHdUJnWU1pT0hRbTFVa044Zkl5TzU3WXZuNjV0bmw4c3dGc3VwTUFwL2lXQUV1eHYzenJUWUJoTlhqcUZBTXYzRWJVd0FBCkFBRmlTMGRFelczUW8wVUFBQUFKY0VoWmN3QUFEc01BQUE3REFjZHZxR1FBQUFBSGRFbE5SUWZsQndRTEZBSjc2akpPQUFBQkxrbEUKUVZRWTAyTmdZR0JrVWxWVDE5RFUwdGJSWldaaEFBSldOajE5Zy9VYk5tN2NhR2hrek03QndNQnBZbXEyYWZPV3JkdUFRaHZOTGJnWQpHTGd0cmJidjJMbHJOMGpSUm1zYm9JaXQzUjU3QjBjbjUvVkFSUzZ1UEx3TURHN3VIcDVlM2o2K2Z2NEJHb0ZCd1NGOERLRmg0WHNqCkl2a0ZvcUpqWXVQaUV4S1RHSkpUdHU5TFRSTUUyU3FVbnJGL2Z5WkQxczREKzdPRlJZQUNvbUk1QncvdHkyWEkyM1U0djBBY3BFU2kKc09qSWtlSVNodEt5OG9yS3FwanFHa21wMnJxajlRMk5ETkpOelMydGJRSHRIWjFkM1QyOWZmMFRHQmhrWkNkT0FqcHV3K1FwVTZkTgpQellqa29HQmErWXNrSE8zSFQ5eDhzRDIyWFBrZ0NKejU0RkVOcDQ2dmZuTS9BVUw1UmtZRk5nWExWNEMwclo3NmJMbEt4UkJ0aXJ4CnhLNWNwYVc1ZXMzYWRjb3FEQXdBRmZ4eW9wSzNGZlFBQUFBbGRFVllkR1JoZEdVNlkzSmxZWFJsQURJd01qRXRNRGN0TURSVU1URTYKTWpBNk1ESXJNREE2TURBSzBWWGxBQUFBSlhSRldIUmtZWFJsT20xdlpHbG1lUUF5TURJeExUQTNMVEEwVkRFeE9qSXdPakF5S3pBdwpPakF3ZTR6dFdRQUFBQUJKUlU1RXJrSmdnZz09IiAvPgo8L3N2Zz4K&color=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?plastic&logo=yarn&logoColor=white)
 
