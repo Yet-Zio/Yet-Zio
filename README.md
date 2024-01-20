@@ -42,6 +42,7 @@ Hi there :neckbeard: My name's Mahesh P S. I often go by the name Yet Zio, you c
 
 ![React](https://img.shields.io/badge/React-20232A?plastic&logo=react&logoColor=61DAFB)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?plastic&logo=express&logoColor=%2361DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?plastic&logo=tailwind-css&logoColor=white)
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?plastic&logo=ant-design&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?plastic&logo=bootstrap&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?plastic&logo=JSON%20web%20tokens)
