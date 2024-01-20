@@ -9,8 +9,8 @@ Hi there :neckbeard: My name's Mahesh P S. I often go by the name Yet Zio, you c
   <img align="center" width="400px" height="150px" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Yet-Zio&repo=FramelessWindow&title_color=ffffff&text_color=c9cacc&icon_color=98ff75&bg_color=292929" />
 </a>
 <br>
-<a href="https://github.com/Yet-Zio/EComWebsite">
-  <img align="center" width="400px" height="150px" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Yet-Zio&repo=EComWebsite&title_color=ffffff&text_color=c9cacc&icon_color=98ff75&bg_color=292929" />
+<a href="https://github.com/Yet-Zio/krakenkit">
+  <img align="center" width="400px" height="150px" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Yet-Zio&repo=krakenkit&title_color=ffffff&text_color=c9cacc&icon_color=98ff75&bg_color=292929" />
 </a>
 <a href="https://github.com/Yet-Zio/Qt_CircularSplashScreen">
   <img align="center" width="400px" height="150px" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Yet-Zio&repo=Qt_CircularSplashScreen&title_color=ffffff&text_color=c9cacc&icon_color=98ff75&bg_color=292929" />
