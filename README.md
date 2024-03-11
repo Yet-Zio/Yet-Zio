@@ -24,6 +24,7 @@ Hi there :neckbeard: My name's Mahesh P S. I often go by the name Yet Zio, you c
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?plastic&logo=c%2B%2B&logoColor=white&color=e33285)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?plastic&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?plastic&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?plastic&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3670A0?plastic&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?plastic&logo=openjdk&logoColor=white)
@@ -41,6 +42,7 @@ Hi there :neckbeard: My name's Mahesh P S. I often go by the name Yet Zio, you c
 **Frameworks and Libraries**
 
 ![React](https://img.shields.io/badge/React-20232A?plastic&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?plastic&logo=nextdotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?plastic&logo=express&logoColor=%2361DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?plastic&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?plastic&logo=framer&logoColor=blue)
