@@ -25,7 +25,7 @@ Hi there :neckbeard: My name's Mahesh P S. I often go by the name Yet Zio, you c
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?plastic&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?plastic&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?plastic&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3670A0?plastic&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?plastic&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?plastic&logo=kotlin&logoColor=white)
