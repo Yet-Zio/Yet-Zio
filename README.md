@@ -1,5 +1,4 @@
-Hi there :neckbeard: My name's Mahesh P S. I often go by the name Yet Zio, you can call me just zio or yeti, whatever you want.
-
+Hi there :neckbeard: My name's Mahesh P S. I often go by the name Yet Zio online.
 ## My Repos
 <a href="https://github.com/Yet-Zio/yetCalc">
   <img align="center" width="400px" height="150px" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Yet-Zio&repo=yetCalc&title_color=ffffff&text_color=c9cacc&icon_color=98ff75&bg_color=292929" />
