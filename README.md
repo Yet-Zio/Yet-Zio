@@ -3,6 +3,8 @@ Hi there :neckbeard: My name's Mahesh P S. I often go by the name Yet Zio online
 
 I'm a fullstack developer and database specialist with expertise in building scalable systems from database to UI. I work extensively with **NestJS**, **Express**, **React**, **PostgreSQL**, **Docker**, and **AWS** to create robust, maintainable applications and containerized solutions.
 
+![snakegraph](https://github.com/Yet-Zio/Yet-Zio/blob/output/github-contribution-grid-snake-dark.svg)
+
 ### What I do:
 
 - 🗄️ **Database Engineering** - Administration and optimization (PostgreSQL, MySQL, MongoDB, Redis)
